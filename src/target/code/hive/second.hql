@@ -1,0 +1,1 @@
+select * from prod_open_Area.tables;
